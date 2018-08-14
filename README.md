@@ -1,3 +1,3 @@
 # conflict-resolving-demo
 
-LOCAL: Edited this manually to resolve the conflict.
+Remote again: Manufacturing another conflict to test P4Merge.
