@@ -1,3 +1,3 @@
 # conflict-resolving-demo
 
-LOCAL: This is about resolving conflicts.
+LOCAL: Edited this manually to resolve the conflict.
