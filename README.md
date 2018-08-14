@@ -1,3 +1,3 @@
 # conflict-resolving-demo
 
-LOCAL: Edited this manually to resolve the conflict.
+Local again: Creating another conflict to test launching P4Merge from the Git command line.
